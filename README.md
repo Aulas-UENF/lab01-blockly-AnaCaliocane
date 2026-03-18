@@ -47,7 +47,7 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
 
-Nivel 9- Desenhar 3 estrelas pequenas com uma lua minguante no lado inforior esquerdo da tela.
+Nivel 9- Desenhar 3 estrelas pequenas com uma lua minguante no lado inferior esquerdo da tela.
 
 Desenhando as 3 estrelas:
 
